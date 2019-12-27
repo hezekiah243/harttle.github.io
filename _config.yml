@@ -22,7 +22,7 @@ kramdown:
   input: GFM
   hard_wrap: false
 
-ga: 'UA-65795020-1'
+# ga: 'UA-65795020-1' # google analytics
 
 sass:
     style: compressed
