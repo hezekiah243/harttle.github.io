@@ -1,14 +1,13 @@
-title: Han Land
+title: Han Cage
 description: share the tech.
 url: https://harttle.land
-author: Han
+author: Han Liu
 email: liuhan213@gmail.com
 logo: assets/img/favicon.png
 keywords: 
-  - Web
-  - C++
-  - Linux
-  - Vim
+  - Unsupervised Categorization
+  - Knowledge Graph
+  - Cloud Computing
 
 permalink: /:year/:month/:day/:title.html
 paginate: 7
